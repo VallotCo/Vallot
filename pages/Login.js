@@ -37,6 +37,7 @@ const Login = ({ navigation }) => {
                             color='black'
                         />
                     }
+
                 />
                 <Input
                     placeholder='Password'
